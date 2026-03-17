@@ -9,60 +9,6 @@ pideYcome © 2026 by Cesar Lara is licensed under CC BY-NC-ND 4.0. To view a cop
 
 Sistema completo de gestión de restaurante desarrollado como mockup de prueba con múltiples roles de usuario. Permite la gestión integral de órdenes, cocina, pagos e inventario con actualizaciones en tiempo real.
 
----
-
-## 👥 Roles de Usuario
-
-### 1. **Mesero**
-- Crea órdenes para llevar o comer en el lugar
-- Asigna mesas a las órdenes
-- Agrega nombre del cliente
-- Recibe notificaciones en tiempo real del estado de órdenes
-- Ve campanita de notificaciones con contador de pendientes
-- Filtra órdenes por mesa
-- Selecciona productos del menú (los agotados aparecen deshabilitados)
-
-### 2. **Cocina**
-- Ve todas las órdenes en tiempo real
-- Estados: Pendiente → Recibida → Preparando → Despachada
-- Filtra por estado de orden
-- Filtra por mesa o "para llevar"
-- Ve ID de mesa o identificador para llevar
-- Ve nombre del cliente en cada orden
-- Actualiza el estado de las órdenes
-
-### 3. **Cajera**
-- Ve recuento automático de órdenes
-- Calcula totales automáticamente
-- Agrupa órdenes por mesa
-- Imprime tickets o facturas
-- Simulación de POS
-- Envío de comprobantes por correo
-- Gestiona pagos y marca órdenes como pagadas
-- Ve ingresos del día y estadísticas
-
-### 4. **Administrador**
-- Gestiona productos, precios e inventario
-- Ve todos los movimientos del restaurante
-- Crea nuevos usuarios (mesero, cocina, cajera)
-- Agrega nuevos productos al inventario
-- Actualiza stock de productos
-- Modifica precios y categorías
-- Panel de estadísticas general
-
----
-
-## 🔐 Usuarios de Prueba
-(Los datos de prueba no estan insertados en nignuna base de datos)
-
-| Rol | Usuario | Contraseña |
-|-----|---------|------------|
-| **Mesero** | mesero1 | 1234 |
-| **Cocina** | cocina1 | 1234 |
-| **Cajera** | cajera1 | 1234 |
-| **Administrador** | admin | admin |
-
----
 
 ## 📊 Flujo de Estados de Órdenes
 
