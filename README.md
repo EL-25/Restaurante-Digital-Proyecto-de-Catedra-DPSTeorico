@@ -1,3 +1,6 @@
+# Desarrollado como sistema mockup de gestión de restaurante (PideyCome)** | Grupo 02 DPS 01T 2026
+---
+
 # Integrantes:
 Edwin Leiva LB250368  
 César Melendez MA250099  
@@ -14,7 +17,4 @@ Link para ver la pagina web simulada sin backend solo diseño pero funcional con
 # Tipo de licencia Creative Commons implementada:
 pideYcome © 2026 by Cesar Lara is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
 
----
-
-**Desarrollado como sistema mockup de gestión de restaurante (PideyCome)** | Grupo 2 DPS 01T 2026
 # README
