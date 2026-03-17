@@ -4,20 +4,7 @@ Enlace Trello: https://trello.com/invite/b/69b8a172ddbce1671e34755a/ATTI578335f2
 
 Tipo de Licencia Creative Commons implementada:
 pideYcome © 2026 by Cesar Lara is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
-
-## 📋 Descripción General
-
-Sistema completo de gestión de restaurante desarrollado como mockup de prueba con múltiples roles de usuario. Permite la gestión integral de órdenes, cocina, pagos e inventario con actualizaciones en tiempo real.
-
-
-## 📊 Flujo de Estados de Órdenes
-
-```
-Ordenada → Recibida por Cocina → Preparando → Despachada
-```
-
-### Estados Detallados:
-1. **Ordenada** (Amarillo) - El mesero crea la orden
+ 
 2. **Recibida por Cocina** (Azul) - La cocina confirma recepción
 3. **Preparando** (Naranja) - La orden está en preparación
 4. **Despachada** (Verde) - La orden está lista para entregar
