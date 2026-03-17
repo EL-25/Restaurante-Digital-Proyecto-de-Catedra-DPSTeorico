@@ -574,3 +574,4 @@ Figma nos da esta herramienta para subir nuestros prototipos y ver como interact
 ---
 
 **Desarrollado como sistema mockup de gestión de restaurante (PideyCome)** | Grupo 2 DPS 01T 2026
+# README
